@@ -1,6 +1,5 @@
 package creational.factory_method.pattern
 
-
 abstract class Pizza(
         val name: String,
         val sauce: String,
